@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello people 👋
 
 <!--
 **onl1ner/onl1ner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
